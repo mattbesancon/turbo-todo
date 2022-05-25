@@ -196,6 +196,8 @@ GEM
       sprockets (>= 3.0.0)
     sqlite3 (1.4.2)
     strscan (3.0.3)
+    tailwindcss-rails (2.0.8-x86_64-darwin)
+      railties (>= 6.0.0)
     thor (1.2.1)
     tilt (2.0.10)
     timeout (0.2.0)
@@ -247,6 +249,7 @@ DEPENDENCIES
   spring
   sprockets-rails
   sqlite3 (~> 1.4)
+  tailwindcss-rails (~> 2.0)
   turbo-rails
   turbolinks (~> 5)
   tzinfo-data
